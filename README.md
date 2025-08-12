@@ -1,6 +1,7 @@
 # Essential Linux Commands for DevOps Engineers 🔥
 
 Welcome to this comprehensive guide on Linux commands essential for every DevOps engineer 🎯
+
 This README covers commonly used commands, their important flags, and practical examples for better understanding 💡
 
 ---
